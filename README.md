@@ -1,2 +1,2 @@
-# RPS
-Stimulated rock paper scissor
+# CROP DISEASE DETECTION SYSTEM
+Stimulated CROP DISEASE DETECTION
